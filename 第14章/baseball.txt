@@ -1,0 +1,11 @@
+5 Leonard Davincci 5 2 1 1
+9 Michael Job 7 1 3 3
+10 House Bargin 8 3 5 2
+11 Hendle Bush 2 1 4 1
+1 Barfet Ahmen 9 9 9 9
+13 Bill Gates 8 3 1 2
+9 Michael Job 5 4 2 1
+0 Howard Fincher 12 12 12 12
+9 Michael Job 6 2 2 1
+7 Marshell Duli 2 1 1 1
+18 Elizabeth Parker 9 0 1 0
